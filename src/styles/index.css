@@ -1,3 +1,19 @@
+.nav-pad{
+  padding-left: 150px;
+  padding-right:  150px;
+}
+.margin-r-space{
+    margin-right: 900px;
+}
+.jumbotron-fix{
+    text-align: left;
+}
+.placeholder{
+    color:white;
+    background-color:grey;
+    height:250px;
+    width:286px;
+}
 
 /* 
 
